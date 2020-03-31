@@ -1,0 +1,274 @@
+VMName,Host,vCPUs,RAM,Storage,Used,Available,VM Installed On,OS
+DEMO-JENKINS-2.203,C2-BLD08-CXS-28,2,8,180,,,,
+DSN-MQM-2.18,,2,4,65,,,, CentOS release 6.5 (Final)
+MTG-MYSQLCLTEST-2.42,C2-BLD14-CXS-34,2,5,100,65,27,Install Date: Fri 28 Aug 2015, CentOS release 6.2 (Final)
+VH-DEMAZEAPP-1.229,C2-BLD02-CXS-22,6,16,80,61,11,Install Date: Tue 20 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+RND-DYNAMIC-1.64,,0,8,100,,,,
+Control domain on host: C2-BLD14-CXS34,C2-BLD14-CXS-34,0,4,0,,,,
+KUONI-DB-2.173,C2-BLD03-CXS-23,2,10,200,141,40,Install Date: Fri 27 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+EK-BUILD2-2.167,C2-BLD14-CXS-34,6,8,100,,,,
+ITD-LOGANALYZER-2.196,C2-BLD08-CXS-28,4,8,400,,,,
+DSN-GRINDERDB-2.89,C2-BLD13-CXS-33,2,8,165,60,87,Install Date: Thu 19 Nov 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+TC-APP-3.59,C2-BLD02-CXS-22,6,8,100,40,51,Install Date: Fri 13 May 2016, CentOS release 6.2 (Final)
+RND-ELASTICSEARCH-2.143,C2-BLD12-CXS-32,2,16,150,84,42,, Ubuntu 14.04.3 LTS
+DSN-R2API-2.207,C2-BLD12-CXS-32,6,16,166,83,51,Install Date: Thu 25 Aug 2016, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+RCCL-ES-1.186,C2-BLD13-CXS-33,3,5,50,27,19,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-DOCKER-2.226,C2-BLD14-CXS-34,6,22,320,269,23,Install Date: Thu 27 Jun 2019, Red Hat Enterprise Linux Server release 7.5 (Maipo)
+FZ-APP-3.8,C2-BLD02-CXS-22,6,14,220,145,70,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2API-2.225,C2-BLD12-CXS-32,6,18,160,54,89,Install Date: Fri 20 Jan 2017, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+TC-AUTOMATION-2.72,C2-BLD14-CXS-34,3,12,120,,,, Microsoft Windows 7 Professional |C
+SUPP-ANSIBLEJENKINS-1.168,,8,10,100,,,, CentOS release 6.5 (Final)
+EK-QA-1.27,C2-BLD10-CXS-30,2,15,150,28,105,Install Date: Wed 26 Jun 2013, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TA-V4DB-2.154,C2-BLD03-CXS-23,2,8,200,179,0,Install Date: Mon 02 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TC-DB-2.238,C2-BLD03-CXS-23,4,26,400,270,97,Install Date: Fri 27 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+VH-DB-1.211,C2-BLD12-CXS-32,4,8,200,173,6.4,Install Date: Fri 27 Jan 2017,
+VH-DB-3.54-New-4.190,C2-BLD14-CXS-34,4,8,500,335,125,Install Date: Fri 27 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+ADMIN-HRMSPULSE-1.85,C2-BLD08-CXS-28,4,8,250,,,, CentOS release 6.5 (Final)
+VH-DB-1.36,C2-BLD03-CXS-23,4,8,800,507,230,Install Date: Wed 26 Feb 2014, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-NFR-4.72,C2-BLD08-CXS-28,6,18,166,127,5.4,Install Date: Thu 25 Aug 2016, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+QA-TraineeEnvDB-4.210,C2-BLD04-CXS-24,4,8,300,137,136,Install Date: Fri 27 Jan 2017,
+WZT-REPLICA-2.53,,2,8,70,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-GIMDEVDB-2.54,C2-BLD03-CXS-23,4,12,80,66,5.3,Install Date: Mon 11 Jun 2018,
+COMMON-GITLABTEST-1.42,,0,4,30,,,,
+R&D-LOGSTASH-1.71,C2-BLD03-CXS-23,4,15,100,52,35,, Ubuntu 16.04.5 LTS
+FDM-APP-0.166,C2-BLD13-CXS-33,4,10,100,54,38,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+ADMIN-NEWIE-2.15,,0,7,60,,,, CentOS release 6.5 (Final)
+DSN-APP-1.214,,4,6,100,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+EK-APP-4.249,C2-BLD12-CXS-32,4,8,100,46,44,Install Date: Thu 12 Dec 2019, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+RCCL-ES-1.187,C2-BLD13-CXS-33,3,5,50,5.4,40,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-REGR2BDB-2.236,C2-BLD13-CXS-33,10,32,550,475,41,Install Date: Mon 11 Jun 2018,
+VH-DB-1.196,C2-BLD12-CXS-32,4,10,600,430,124,Install Date: Fri 27 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+VH-DB-2.209,C2-BLD03-CXS-23,2,8,600,343,211,Install Date: Fri 27 Jan 2017,
+RCCL-DB-1.190,C2-BLD12-CXS-32,4,8,210,47,141,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DA-LIVEWEB-2.139,C2-BLD13-CXS-33,2,8,150,8.4,128,Install Date: Fri 28 Sep 2018, Red Hat Enterprise Linux Server release 6.9 (Santiago)
+TTF-DB-2.155,,0,18,150,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+COMMON-VKB-2.17,C2-BLD04-CXS-24,4,7,500,338,123,Install Date: Fri 17 Apr 2015, CentOS release 6.6 (Final)
+VH-TBXCENTRAL-2.127,,6,8,100,,,, CentOS release 6.2 (Final)
+Control domain on host: C2-BLD12-CXS-32,C2-BLD12-CXS-32,0,4,200,,,,
+VH-APP-1.136,C2-BLD13-CXS-33,4,15,550,40,471,Install Date: Thu 17 Aug 2017, CentOS release 6.2 (Final)
+GIT-STAT-4.67,C2-BLD02-CXS-22,2,4,50,,,,
+RCCL-AUTOMATION-2.220,C2-BLD10-CXS-30,4,16,120,,,,
+SUPP-TERMINAL-2.224,C2-BLD04-CXS-24,4,15,300,,,, Microsoft Windows 7 Professional |C
+DSN-DLR-2.234,C2-BLD13-CXS-33,4,15,250,165,62,Install Date: Tue 11 Oct 2016, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+DSN-APP-4.245,C2-BLD02-CXS-22,6,16,50,12,31,Install Date: Wed 04 Dec 2019,
+ARC-DB-2.191,C2-BLD10-CXS-30,3,12,200,174,16,Install Date: Mon 09 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+R&D-WEB-3.50,C2-BLD04-CXS-24,2,2,60,3.9,50,Install Date: Tue 03 Jan 2017, CentOS release 6.2 (Final)
+DSN-DLPQAPKG-2.229,C2-BLD13-CXS-33,8,23,150,63,71,Install Date: Mon 09 Jul 2018, Red Hat Enterprise Linux Server release 7.0 (Maipo)
+Copy of CG-TRITIUMDEVAPP-4.243,,0,8,150,,,, CentOS Linux release 7.1.1503 (Core)
+ADMIN-PULSE-2.92,,0,4,100,,,,
+EDN-DB-1.154,C2-BLD03-CXS-23,2,8,200,151,26,Install Date: Wed 22 Feb 2017,
+DSN-REGAPP-2.82,C2-BLD08-CXS-28,4,10,80,37,31,Install Date: Wed 18 Nov 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+FDM-APP-0.165,C2-BLD13-CXS-33,4,14,130,105,12,Install Date: Mon 15 May 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TA-WEB-3.46,C2-BLD13-CXS-33,4,6,100,73,20,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+CAB-LOCAL-4.63,C2-BLD04-CXS-24,4,8,50,5.1,38,Install Date: Thu 21 Feb 2019, CentOS release 6.5 (Final)
+RCCL-SURF-APP-1.208,C2-BLD10-CXS-30,4,5,150,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-LTAPP-2.77,C2-BLD14-CXS-34,6,16,150,86,40,Install Date: Wed 18 Nov 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+RCCL-QCPORTAL-2.47,C2-BLD08-CXS-28,2,4,80,,,,
+ARC-KUONIDB-1.221,C2-BLD02-CXS-22,3,12,200,162,22,Install Date: Mon 19 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-REGLOAD-1.253,C2-BLD13-CXS-33,4,10,110,94,1.5,Install Date: Mon 28 Aug 2017, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+SUPP-RUNDECK-2.168,C2-BLD04-CXS-24,2,4,80,12,60,Install Date: Fri 13 May 2016, CentOS release 6.2 (Final)
+DSN-ARTIFACT-2.57,C2-BLD10-CXS-30,6,15,400,348,23,Install Date: Wed 14 Oct 2015, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2API-2.174,C2-BLD14-CXS-34,4,12,160,,,, Red Hat Enterprise Linux Server release 7.5 (Maipo)
+DSN-QADBNEW-2.116,C2-BLD10-CXS-30,16,64,600,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+FDM-QA2-0.164,C2-BLD08-CXS-28,8,20,300,143,129,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TC-DB-2.152,,2,8,150,,,, CentOS release 6.2 (Final)
+DSN-R2APP-2.188,C2-BLD04-CXS-24,6,18,80,60,4.2,Install Date: Wed 09 Dec 2015, CentOS release 6.5 (Final)
+TC-JENKINS-1.164,C2-BLD13-CXS-33,4,8,500,,,,
+COMMON-SONAR-2.166,C2-BLD13-CXS-33,8,20,630,524,93,Install Date: Thu 26 May 2016, CentOS release 6.10 (Final)
+MTG-BACKUP-2.26,,0,10,300,,,, Microsoft Windows 7 Professional |C
+EK-DB-4.248,C2-BLD03-CXS-23,4,8,150,74,59,Install Date: Thu 12 Dec 2019, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2API-2.175,C2-BLD14-CXS-34,4,12,160,94,49,Install Date: Thu 24 May 2018, Red Hat Enterprise Linux Server release 7.3 (Maipo)
+VH-JENKINS-2.20,C2-BLD08-CXS-28,3,8,150,118,19,Install Date: Fri 13 May 2016, CentOS release 6.5 (Final)
+DA-DBSTAGING-1.54,C2-BLD12-CXS-32,4,8,300,251,40,Install Date: Tue 12 Dec 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+MTG-APP-1.24,C2-BLD10-CXS-30,6,12,130,104,21,Install Date: Sun 09 Jun 2013, CentOS release 6.2 (Final)
+TC-AUTOMATION1-2.63,C2-BLD13-CXS-33,3,12,120,,,, Microsoft Windows 7 Professional |C
+CCS-APP-1.78,,3,8,80,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TA-V4-APP-2.153,C2-BLD03-CXS-23,6,12,150,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-APP-1.173,C2-BLD14-CXS-34,4,14,250,224,2.5,Install Date: Tue 10 Jun 2014, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2API-2.208,C2-BLD08-CXS-28,6,16,166,129,3.4,Install Date: Thu 25 Aug 2016, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+EK-APP-1.25,C2-BLD14-CXS-34,4,8,80,71,0,Install Date: Sun 09 Jun 2013, CentOS release 6.2 (Final)
+TBX-CLOUDWEB-2.124,C2-BLD12-CXS-32,3,5,100,60,32,Install Date: Mon 20 Jun 2016, CentOS Linux release 7.3.1611 (Core)
+ARC-KUONIAPP-1.129,C2-BLD08-CXS-28,6,10,150,32,101,Install Date: Mon 19 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+SE-LBAPP-1.224,C2-BLD12-CXS-32,9,60,200,165,31,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+CG-DATAMASK-4.70,C2-BLD10-CXS-30,2,2,100,6.2,85,Install Date: Thu 30 Jan 2020, CentOS Linux release 7.1.1503 (Core)
+VH-DB-1.188,C2-BLD04-CXS-24,4,16,500,413,45,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-TOMCAT-2.240,C2-BLD02-CXS-22,4,6,75,19,44,Install Date: Thu 05 Apr 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2BQAAPP-1.22,C2-BLD14-CXS-34,4,18,150,98,41,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+CCS-DB-3.42,,2,7,300,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+GOWAY-AUTOMATION-0.169,,6,8,80,,,,
+Control domain on host: C2-BLD13-CXS-33,C2-BLD13-CXS-33,0,4,0,,,,
+DSN-TICKETINGPOS-2.58,,0,12,250,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-MONITORING-2.161,C2-BLD04-CXS-24,6,6,80,44,5.9,Install Date: Mon 19 Jun 2017, CentOS Linux release 7.3.1611 (Core)
+ARC-WASP-1.141,C2-BLD03-CXS-23,2,6,270,215,43,Install Date: Thu 28 Jan 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-DLPQAHAZELCAST1-2.232,C2-BLD08-CXS-28,6,22,100,11,79,Install Date: Tue 10 Jul 2018,
+FZ-B2BB2C02-1.159,C2-BLD10-CXS-30,3,7,100,3.5,87,Install Date: Mon 11 Jun 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+Control domain on host: C2-BLD02-CXS-22,C2-BLD02-CXS-22,0,4,0,,,,
+KUONI-APP-2.171,C2-BLD13-CXS-33,8,20,150,51,86,Install Date: Mon 09 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-GRINDER-2.204,C2-BLD04-CXS-24,6,11,60,20,33,Install Date: Tue 05 May 2015, CentOS release 6.2 (Final)
+CV-DB-2.9,C2-BLD13-CXS-33,8,8,250,222,15,Install Date: Tue 29 Sep 2015,
+EK-DB-1.119-New,C2-BLD08-CXS-28,4,8,150,128,4.9,Install Date: Fri 27 Jan 2017,
+CCS-JENKINS-2.27,,3,8,220,,,, CentOS release 6.2 (Final)
+DSN-API-1.243,C2-BLD13-CXS-33,4,8,150,29,107,Install Date: Thu 20 Sep 2018, Red Hat Enterprise Linux Server release 7.3 (Maipo)
+KUONI-DB-1.180,C2-BLD14-CXS-34,2,8,280,49,204,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+BI-TEST-2.230,C2-BLD04-CXS-24,4,8,60,,,,
+TBXSURF-APP-3.53,C2-BLD03-CXS-23,3,8,80,8.1,65,Install Date: Tue 14 Jun 2016,
+DSN-DB-3.6,,4,8,180,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+VH-BACKUPDB-4.238,C2-BLD02-CXS-22,6,16,600,17,536,Install Date: Thu 19 Dec 2019,
+DSN-DLPQALOADING-2.223,C2-BLD04-CXS-24,6,14,150,110,24,Install Date: Mon 09 Jul 2018, Red Hat Enterprise Linux Server release 7.0 (Maipo)
+FZ-DB-2.162,C2-BLD14-CXS-34,2,8,200,179,749M,Install Date: Thu 13 Sep 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+FZ-BACKUPDB-4.178,C2-BLD02-CXS-22,2,8,200,103,77,Install Date: Fri 27 Jan 2017,
+RCCL-DB-1.81,C2-BLD13-CXS-33,2,8,200,185,4.2,Install Date: Fri 28 Jun 2013, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-VLDTN-1.115,C2-BLD08-CXS-28,16,18,200,168,16,Install Date: Mon 19 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+YAS-EC-1.41,C2-BLD10-CXS-30,4,10,80,71,19M,Install Date: Thu 01 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+R&D-DOCKER-2.249,C2-BLD10-CXS-30,2,4,100,4.7,82,Install Date: Thu 05 Apr 2018,
+DSN-DLPQADB-2.239,C2-BLD12-CXS-32,8,16,450,242,179,Install Date: Mon 11 Jun 2018, Red Hat Enterprise Linux Server release 7.3 (Maipo)
+TBXSURF-ELASTICSEARCH-2.185,C2-BLD04-CXS-24,4,6,100,30,63,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+FZ-B2BB2C01-1.158,C2-BLD10-CXS-30,3,8,100,15,75,Install Date: Mon 11 Jun 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+ITD-KHALI-2.122,,0,2,30,,,,
+DSN-GRINDER-2.85,C2-BLD04-CXS-24,6,10,60,46,2.5,Install Date: Mon 18 Jun 2018,
+FDM-APP-2.11,C2-BLD03-CXS-23,4,10,200,152,28,Install Date: Mon 16 Mar 2015, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+FZ-SECTEST-2.157,C2-BLD02-CXS-22,2,4,75,,,, CentOS Linux release 7.4.1708 (Core)
+RCCL-SURFES-1.207,C2-BLD10-CXS-30,4,5,70,4.3,59,Install Date: Tue 19 Sep 2017, CentOS release 6.2 (Final)
+RCCL-WEB-1.46,,4,4,30,,,,
+TC-APP-2.129,C2-BLD04-CXS-24,4,13,100,,,,
+FDM-DEMO-2.83,C2-BLD04-CXS-24,4,2,100,86,0,Install Date: Wed 21 Mar 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+VH-DB-2.133,C2-BLD02-CXS-22,6,15,590,397,176,Install Date: Tue 01 Mar 2016, CentOS release 6.2 (Final)
+CURRYMUCH-RMS-4.154,C2-BLD14-CXS-34,2,6,50,4.7,36,,
+DSN-R2API-2.71,C2-BLD02-CXS-22,6,16,216,21,159,Install Date: Thu 25 Aug 2016, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+FDM-LBAPP-2.97,C2-BLD02-CXS-22,12,18,300,123,169,Install Date: Mon 30 Nov 2015, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+COMMON-WEBSTORM-2.190,C2-BLD02-CXS-22,4,4,80,5.2,66,Install Date: Fri 13 May 2016, CentOS release 6.2 (Final)
+TBXSURF-ELASTICSEARCH-2.182,C2-BLD03-CXS-23,3,6,100,12,80,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+ARC-APP-2.192,C2-BLD13-CXS-33,8,21,150,95,43,Install Date: Mon 09 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+ARC-DB-3.26,C2-BLD04-CXS-24,3,12,200,177,2.6,Install Date: Mon 09 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+ARC-DB-2.173-OLD,,0,12,200,141,40,Install Date: Fri 27 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+VH-APP-3.62,C2-BLD12-CXS-32,3,24,200,158,26,Install Date: Fri 13 May 2016, CentOS release 6.2 (Final)
+Control domain on host: C2-BLD04-CXS-24,C2-BLD04-CXS-24,0,4,0,,,,
+SUPP-OKM-2.140,C2-BLD04-CXS-24,1,10,100,17,26,Install Date: Thu 22 Aug 2019,
+DAQA-APP-1.86,C2-BLD03-CXS-23,2,12,120,83,26,Install Date: Wed 22 Aug 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-ORACLERAC-2.201,C2-BLD12-CXS-32,12,32,400,12,27,Install Date: Mon 07 Dec 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+QA-TraineeEnvAPP-4.214,C2-BLD04-CXS-24,4,10,100,50,42,Install Date: Thu 05 Sep 2019,
+TBXSURF-APP-3.55,C2-BLD03-CXS-23,3,8,80,5.2,68,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-DLPQAAPI-2.227,C2-BLD04-CXS-24,6,16,150,11,122,Install Date: Mon 09 Jul 2018, Red Hat Enterprise Linux Server release 7.0 (Maipo)
+FDM-WEB-0.48,C2-BLD03-CXS-23,2,4,100,21,72,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+RCCL-SURFES-1.205,C2-BLD04-CXS-24,3,4,70,18,46,Install Date: Tue 19 Sep 2017, CentOS release 6.2 (Final)
+ITD-TESTADClient-,,0,4,50,,,,
+DSN-R2API-2.76,C2-BLD13-CXS-33,6,18,166,,,, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+RCCL-IBE-1.172,C2-BLD04-CXS-24,1,8,50,4.7,41,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TBXSURF-WEB-3.58,C2-BLD08-CXS-28,2,8,40,32,4.2,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+EDN-APP-1.153,C2-BLD04-CXS-24,2,8,100,70,19,Install Date: Mon 13 Feb 2017,
+DSN-EXO-1.175,,8,8,200,,,, CentOS release 6.2 (Final)
+KUONI-B2BB2C-4.60,C2-BLD14-CXS-34,2,8,50,14,29,Install Date: Thu 24 Jan 2019, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-JENKINS-2.28,C2-BLD14-CXS-34,6,16,220,,,, CentOS release 6.2 (Final)
+VH-APP-3.57,C2-BLD08-CXS-28,4,12,150,79,60,Install Date: Tue 14 Jun 2016,
+DSN-DLPAPP-2.254,C2-BLD12-CXS-32,4,8,80,7.4,63,Install Date: Mon 01 Oct 2018, Red Hat Enterprise Linux Server release 7.4 (Maipo)
+DSN-DBNEW-2.3,C2-BLD08-CXS-28,8,16,500,215,253,Install Date: Mon 11 Jun 2018,
+DSN-SANDBOXSGT-1.56,C2-BLD04-CXS-24,6,8,750,630,68,Install Date: Wed 29 Nov 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+RCCL-JENKINS-2.186,C2-BLD10-CXS-30,6,8,255,113,122,Install Date: Fri 13 May 2016, CentOS release 6.2 (Final)
+RCCL-SURF-1.189,C2-BLD08-CXS-28,3,8,50,15,30,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2API-2.205,C2-BLD12-CXS-32,6,16,166,106,28,Install Date: Thu 25 Aug 2016, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+TBXSURF-WEB-2.22,C2-BLD13-CXS-33,2,8,30,15,12,Install Date: Tue 17 Oct 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+Control domain on host: C2-BLD03-CXS-23,C2-BLD03-CXS-23,0,4,0,,,,
+RND-ELASTICSEARCH-4-2.144,C2-BLD02-CXS-22,2,8,150,,,, Ubuntu 14.04.3 LTS
+TA-V4APP-2.145,C2-BLD08-CXS-28,6,22,120,78,31,Install Date: Wed 23 Mar 2016, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+SUPTravelBox-TEST-32Bit,C2-BLD04-CXS-24,4,4,30,,,,
+TBX-RESTAPI-2.176,,4,12,100,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+SUPP-TEST12CTEMP-1.16,,0,4,50,,,,
+TA-APP-1.165,,0,10,100,,,, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+RCCL-UATAPP-1.183,C2-BLD14-CXS-34,4,14,100,27,63,Install Date: Thu 29 Jun 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TBX-MAVENREPO-2.110,C2-BLD03-CXS-23,6,10,400,335,34,Install Date: Tue 19 Jan 2016, CentOS release 6.2 (Final)
+MTG-DB-2.194,C2-BLD03-CXS-23,2,8,250,225,0,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+EDN-APP-1.152,C2-BLD13-CXS-33,2,12,100,20,69,Install Date: Mon 13 Feb 2017,
+EK-APP-2.126,C2-BLD03-CXS-23,6,12,100,13,70,,
+FZ-LB-2.163,C2-BLD03-CXS-23,3,16,150,139,0,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-JENKINS-2.73,C2-BLD10-CXS-30,6,8,100,43,48,Install Date: Wed 21 Aug 2019, CentOS release 6.2 (Final)
+COMMON-SONAR-2.12,C2-BLD12-CXS-32,4,12,200,13,167,Install Date: Thu 08 Mar 2018, CentOS release 6.5 (Final)
+FZ-APP-1.142,C2-BLD04-CXS-24,3,16,200,162,24,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-DLPDEVDB-2.247,C2-BLD12-CXS-32,6,7,500,461,7.1,Install Date: Mon 11 Jun 2018, Red Hat Enterprise Linux Server release 7.3 (Maipo)
+DSN-LOADING-1.242,C2-BLD12-CXS-32,6,8,150,44,90,Install Date: Mon 05 Mar 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+EK-DEVDB-2.150,C2-BLD04-CXS-24,6,8,200,130,51,Install Date: Tue 12 Apr 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+YAS-ES-1.108,C2-BLD08-CXS-28,6,16,80,17,59,Install Date: Mon 19 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-REGAPI-1.251,C2-BLD13-CXS-33,6,10,110,,,,
+COMMON-FINANCESYSTEMS-2.237,C2-BLD14-CXS-34,4,4,250,,,,
+RCCL-APP-1.133,C2-BLD04-CXS-24,6,12,300,155,125,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2API-2.158,C2-BLD14-CXS-34,4,12,160,109,34,Install Date: Fri 20 Jan 2017, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+RCCL-APP-1.155,C2-BLD14-CXS-34,4,8,100,73,19,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+FZ-APP-2.149,C2-BLD03-CXS-23,3,19,100,80,11,Install Date: Mon 25 Jan 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+COMMON-DBDUMP-1.11,C2-BLD14-CXS-34,4,4,610,3.5,2.0,Install Date: Fri 13 May 2016, CentOS release 6.2 (Final)
+WZT-DB-2.34,C2-BLD08-CXS-28,4,10,200,55,126,Install Date: Fri 27 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+YAS-DB-3.63,C2-BLD14-CXS-34,4,8,200,170,11,Install Date: Wed 27 Jul 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+V2-APPDB-1.178,,4,5,250,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DEMO-APP-4.66,C2-BLD02-CXS-22,2,4,60,4.0,48,Install Date: Tue 05 Mar 2019, CentOS release 6.10 (Final)
+COMMON-JENKINS-0.168,,2,4,120,,,, Microsoft Windows 7 Professional |C
+Control domain on host: C2-BLD08-CXS-28,C2-BLD08-CXS-28,0,4,0,,,,
+DSN-R2APP-2.245,C2-BLD10-CXS-30,6,16,80,46,19,Install Date: Wed 09 Dec 2015, CentOS release 6.5 (Final)
+COMMON-UXCODEGEN-WEBSITE-1.87,C2-BLD02-CXS-22,2,4,75,,,, CentOS release 6.10 (Final)
+WINDOWS7-LICENCEDONOTDELETE-1.164,,0,8,80,,,,
+VH-TCQA-4.147,C2-BLD14-CXS-34,6,16,100,90,16M,Install Date: Tue 21 Jan 2020, CentOS release 6.5 (Final)
+SAMISA-PYTHON-4.215,C2-BLD03-CXS-23,6,20,100,16,71,Install Date: Tue 17 Sep 2019,
+SE-LOADTESTDB-1.202,C2-BLD12-CXS-32,8,16,250,78,61,Install Date: Wed 31 Aug 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-GRINDER-2.95,C2-BLD12-CXS-32,8,12,60,35,18,Install Date: Tue 05 May 2015, CentOS release 6.2 (Final)
+EVALP-SALON-3.40,,0,2,60,,,, CentOS release 6.2 (Final)
+DSN-DLPDEVAPP-2.246,C2-BLD14-CXS-34,6,20,150,81,45,Install Date: Wed 09 Dec 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+FZ-DB-3.9,,0,8,380,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DA-B2BWEB-1.34,C2-BLD08-CXS-28,4,14,60,25,30,Install Date: Tue 12 Dec 2017, CentOS release 6.2 (Final)
+VH-APP-2.132,C2-BLD02-CXS-22,6,12,140,63,61,Install Date: Tue 01 Mar 2016, CentOS release 6.2 (Final)
+TBXSURF-WEB-2.23,C2-BLD13-CXS-33,2,8,30,23,3.7,Install Date: Tue 17 Oct 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TC-JENKINS-2.198,C2-BLD12-CXS-32,2,8,100,66,25,Install Date: Fri 13 May 2016, CentOS release 6.2 (Final)
+SUPP-OPBRIDGE-1.248,C2-BLD02-CXS-22,3,4,75,52,15,Install Date: Thu 22 Jan 2015, CentOS release 6.2 (Final)
+DSN-DB-2.90,C2-BLD04-CXS-24,8,32,300,213,66,Install Date: Mon 11 Jun 2018,
+TBXSURF-ELASTICSEARCH-2.183,C2-BLD04-CXS-24,3,6,100,8.4,84,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-REGPKG-1.254,,0,10,72,,,, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+SE-LBAPP-1.223,,0,2,200,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+SE-DAILYLOADTEST-2.193,C2-BLD08-CXS-28,4,8,130,120,4.4,Install Date: Tue 05 May 2015, CentOS release 6.2 (Final)
+TBXSURF-APP-3.56,C2-BLD03-CXS-23,3,8,80,65,8.7,Install Date: Tue 14 Jun 2016,
+SUPP-CLAIM-2.106,C2-BLD04-CXS-24,2,4,50,7.7,36,Install Date: Tue 04 Sep 2018, CentOS release 6.5 (Final)
+DSN-WIN7-2.252,,3,8,100,,,,
+CV-DB-2.120,C2-BLD10-CXS-30,6,12,325,285,19,Install Date: Thu 28 Jan 2016,
+COMMON-WIKI-2.52,C2-BLD03-CXS-23,4,4,128,31,85,Install Date: Mon 12 Oct 2015, CentOS release 6.2 (Final)
+ARC-APP-3.25,C2-BLD03-CXS-23,6,20,150,135,1.7,Install Date: Mon 09 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+FDM-DEVDB-0.9,C2-BLD08-CXS-28,4,8,250,166,59,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+KUONI-JENKINS-2.195,C2-BLD12-CXS-32,3,8,100,71,19,Install Date: Fri 13 May 2016, CentOS release 6.5 (Final)
+RCCL-APP-1.169,C2-BLD02-CXS-22,3,8,200,17,163,Install Date: Wed 09 Apr 2014, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+GOWAY-DB-3.30,C2-BLD13-CXS-33,2,8,550,153,352,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-GRINDER-2.21,C2-BLD13-CXS-33,4,8,60,50,2.9,Install Date: Tue 05 May 2015, CentOS release 6.2 (Final)
+FZ-APP-2.119,C2-BLD10-CXS-30,4,16,100,38,52,Install Date: Mon 25 Jan 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+TA-V4DB-2.146,C2-BLD02-CXS-22,2,5,150,131,9.3,Install Date: Wed 23 Mar 2016, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+DA-APPSTAGING-1.48,C2-BLD03-CXS-23,4,14,100,48,46,Install Date: Tue 12 Dec 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+SE-LOADTESTDB-2.202,C2-BLD12-CXS-32,8,16,250,43,88,Install Date: Wed 31 Aug 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+NATIONAL-MONITORING-3.19,,0,6,200,,,,
+FZ-DB-3.11,C2-BLD08-CXS-28,6,12,200,185,2.4,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+FC-PLURA-1.181,C2-BLD04-CXS-24,4,12,200,,,,
+JOOMLA-TEST-2.86,,2,7,80,,,, Red Hat Enterprise Linux Server release 6.9 (Santiago)
+EK-APP-3.20,C2-BLD03-CXS-23,6,8,100,86,0,Install Date: Fri 17 Nov 2017,
+RCCL-QA-1.166,C2-BLD12-CXS-32,3,7,120,16,92,Install Date: Wed 09 Apr 2014, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-LTAPP-2.74,C2-BLD02-CXS-22,6,14,230,75,51,Install Date: Wed 18 Nov 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+RCCL-QA-1.161,C2-BLD14-CXS-34,3,8,100,36,52,Install Date: Tue 20 May 2014, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+YAS-EC-1.28,C2-BLD10-CXS-30,4,10,80,13,59,Install Date: Thu 01 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-R2API-2.70,C2-BLD08-CXS-28,6,18,166,101,32,Install Date: Thu 25 Aug 2016, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+ITD-RUNDECK-1.9,C2-BLD08-CXS-28,4,4,200,,,, CentOS Linux release 7.2.1511 (Core)
+DSN-R2API-2.206,C2-BLD08-CXS-28,6,16,166,100,33,Install Date: Thu 25 Aug 2016, Red Hat Enterprise Linux Server release 6.8 (Santiago)
+CV-DBCOPY-1.65,C2-BLD04-CXS-24,4,18,200,175,14,Install Date: Fri 04 Dec 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+COMMON-TESTLINK-2.39,,0,6,100,87,2.7,Install Date: Tue 25 Aug 2015,
+FDM-QADB-0.8,C2-BLD08-CXS-28,4,8,250,207,18,Install Date: Fri 13 May 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+CV-WEB-2.99,C2-BLD03-CXS-23,2,15,120,106,8.6,, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+KUONI-DB-2.181,C2-BLD02-CXS-22,6,12,500,52,408,Install Date: Fri 27 Jan 2017, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+CG-QSMART-4.45,C2-BLD08-CXS-28,2,8,200,5.8,177,Install Date: Mon 07 Oct 2019,
+DSN-REGAPP-2.78,C2-BLD12-CXS-32,4,12,120,77,29,Install Date: Wed 18 Nov 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+ARC-APP-1.160,,0,18,150,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+ITD-EMCESRS-2.64,C2-BLD10-CXS-30,4,3,40,,,,
+YAS-ES-1.106,C2-BLD02-CXS-22,4,10,80,5.1,66,Install Date: Mon 19 Feb 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+VH-DB-3.54,,0,8,0,335,125,Install Date: Fri 27 Jan 2017,
+TBXSURF-ELASTICSEARCH-2.184,C2-BLD04-CXS-24,3,6,100,38,55,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+DSN-DLPQAHAZELCAST2-2.235,C2-BLD14-CXS-34,6,23,100,14,72,Install Date: Mon 09 Jul 2018, Red Hat Enterprise Linux Server release 7.0 (Maipo)
+DSN-ORACLERAC-2.200,C2-BLD14-CXS-34,12,32,400,28,10,Install Date: Mon 07 Dec 2015, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+VH-GRAFANA-4.223,,0,4,100,4.0,86,Install Date: Mon 14 Oct 2019,
+CV-WEB-3.29,,3,8,100,,,, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+YAS-JENKINS-1.226,C2-BLD10-CXS-30,6,8,200,160,26,Install Date: Tue 14 Jun 2016, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+EVALP-SALON-3.39,,2,8,60,,,, CentOS release 6.2 (Final)
+DEMO-APP-3.60,,6,8,350,,,, CentOS release 6.2 (Final)
+TA-DB-1.182,C2-BLD10-CXS-30,4,10,200,107,73,Install Date: Fri 17 Feb 2017, Red Hat Enterprise Linux Server release 6.6 (Santiago)
+DSN-DB-2.3,,0,15,350,215,253,Install Date: Mon 11 Jun 2018, Red Hat Enterprise Linux Server release 6.3 (Santiago)
+COMMON-QAAUTO-1.203,C2-BLD03-CXS-23,2,6,50,12,31,Install Date: Thu 19 Apr 2018, CentOS release 6.5 (Final)
+DSN-GIMQADB-2.56,C2-BLD03-CXS-23,4,12,80,54,18,Install Date: Mon 11 Jun 2018,
+ITD-EKSSLTEST,C2-BLD14-CXS-34,1,4,50,,,,
+Control domain on host: C2-BLD10-CXS-30,C2-BLD10-CXS-30,0,4,0,,,,
